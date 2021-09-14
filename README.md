@@ -1,12 +1,12 @@
 # Situational Aware Test Plan
 | ID | ------------------------------------------------ |
 | --------------- | ------------------------------------------------ |
-| Test Plan name |                                                |
-| Delivery Name  |                                                |
-| Deadline       |                                                |
+| Test Plan name  |                                                  |
+| Delivery Name   |                                                  |
+| Deadline        |                                                  |
 
 ## Delivery Speed
-|               | Rare              | Regular   | Often  | Pervasive                 |
+| ---           | Rare              | Regular   | Often  | Pervasive                 |
 | ---           | ---               | ---       |        | ---                       |
 |               | No fixed Schedule | Reapeated | Weekly | So often you don’t notice |
 | Your delivery |                   |           |        |                           |
@@ -19,7 +19,7 @@ If given in the situation place:
 * Tools
 * Data 
 on the grid below. Add your own topics to describe your situation
-|               | Rare    | Regular | Often | Pervasive  |
+| ---           | Rare    | Regular | Often | Pervasive  |
 | ---           | ---     | ---     | ---   | ---        |
 |               | Unique  |         |       | Embedded   |
 |               | Custom  |         |       | Usual      |
@@ -27,7 +27,7 @@ on the grid below. Add your own topics to describe your situation
 |               |         |         |       |            |
 
 ## Test Scope
-|                      | Hunches             | Explored | Tool support | Automated  |
+| ---                  | Hunches             | Explored | Tool support | Automated  |
 | ---                  | ---                 | ---      | ---          | ---        |
 |                      | Notes               | Crafted  | Generated    | Autonomous |
 |                      | Ideas               | Charters | Scripts      | Scheduled  |
