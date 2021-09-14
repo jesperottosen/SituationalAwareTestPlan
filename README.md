@@ -1,8 +1,8 @@
 # SituationalAwareTestPlan
---------------- | ------------------------------------------------ |
-Test Plan name |                                                |
-Delivery Name  |                                                |
-Deadline       |                                                |
+|--------------- | ------------------------------------------------ |
+|Test Plan name |                                                |
+|Delivery Name  |                                                |
+|Deadline       |                                                |
 
 ## Delivery Speed
  |Rare             |Regular  |Often  |Pervasive
