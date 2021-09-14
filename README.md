@@ -1,4 +1,5 @@
 # SituationalAwareTestPlan
+---------------|------------------------------------------------|
 Test Plan name |                                                |
 Delivery Name  |                                                |
 Deadline       |                                                |
