@@ -20,7 +20,7 @@ If given in the situation place:
 * Data 
 on the grid below. Add your own topics to describe your situation
 
-| ... | Rare | Regular | Often | Pervasive |
+| **TOPIC** | Rare | Regular | Often | Pervasive |
 | ---           | ---     | ---     | ---   | ---        |
 |               | Unique  |         |       | Embedded   |
 |               | Custom  |         |       | Usual      |
@@ -43,7 +43,7 @@ If specific in this situation place:
 * Data 
 on the grid below. Add your own topics to describe your situation
 
-| ... | Rare | Regular | Often | Pervasive |
+| **TOPIC** | Rare | Regular | Often | Pervasive |
 | --- | ---     | ---     | ---   | ---        |
 |               | Unique  |         |       | Embedded   |
 |               | Custom  |         |       | Usual      |
