@@ -7,7 +7,7 @@
 
 ## Delivery Speed
 | ... | Rare | Regular | Often | Pervasive |
-| ---           | ---               | ---       |        | ---                       |
+| ---           | ---               | ---       | ---    | ---                       |
 |               | No fixed Schedule | Reapeated | Weekly | So often you don’t notice |
 | Your delivery |                   |           |        |                           |
 
@@ -18,6 +18,7 @@ If given in the situation place:
 * Environments
 * Tools
 * Data 
+
 on the grid below. Add your own topics to describe your situation
 
 | **TOPIC** | Rare | Regular | Often | Pervasive |
@@ -41,6 +42,7 @@ If specific in this situation place:
 * Environments
 * Tools
 * Data 
+
 on the grid below. Add your own topics to describe your situation
 
 | **TOPIC** | Rare | Regular | Often | Pervasive |
