@@ -51,5 +51,3 @@ on the grid below. Add your own topics to describe your situation
 |               | Custom  |         |       | Usual      |
 |               | Crafted |         |       | Autonomous |
 | ...           |         |         |       |            |
-
- [CC BY-SA 4.0] Jesper Ottosen, 2021 based on [Simon Wardley‘s Wardley Map Characteristics](https://blog.gardeviance.org/2016/04/whats-in-wardley-map-and-need-for-cheat.html)
