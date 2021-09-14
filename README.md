@@ -8,7 +8,7 @@
 ## Delivery Speed
 | ... | Rare | Regular | Often | Pervasive |
 | ---           | ---               | ---       | ---    | ---                       |
-|               | No fixed Schedule | Reapeated | Weekly | So often you don’t notice |
+|               | No fixed Schedule | Repeated  | Weekly | So often you don’t notice |
 | Your delivery |                   |           |        |                           |
 
 ## Situation
